@@ -9,7 +9,7 @@ function Project({ project }) {
 		<div className="col-lg-4 col-sm-6">
 		<div className="portfolio-box" key={name}>
 			<img
-				src={require(`../../assets/img/portfolio/${name}.jpg`)}
+				src={require(`../../assets/portfolio/${name}.jpg`).default}
 				alt={removeHyphensAndCapitalize(name)}
 				className="img-fluid"
 			/>

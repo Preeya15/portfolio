@@ -101,7 +101,7 @@ function Contact() {
                     
                         <h4>
                             Priya Sharma <br />
-                            Or simply send me an email at:  <a href="mailto:priyasharma15@gmail.com"> priyasharma15@gmail.com</a>
+                            Or send me an email at:  <a href="mailto:priyasharma15@gmail.com"> priyasharma15@gmail.com</a>
                         </h4>
                     </div>
                 </div>
