@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.d1e71a93.chunk.css",
+    "main.js": "/portfolio/static/js/main.b6b574bd.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.b6b574bd.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.956295cc.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.956295cc.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/portfolio/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.644c8968.chunk.js": "/portfolio/static/js/2.644c8968.chunk.js",
+    "static/js/2.644c8968.chunk.js.map": "/portfolio/static/js/2.644c8968.chunk.js.map",
+    "static/js/3.9b4b77ee.chunk.js": "/portfolio/static/js/3.9b4b77ee.chunk.js",
+    "static/js/3.9b4b77ee.chunk.js.map": "/portfolio/static/js/3.9b4b77ee.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/portfolio/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.d1e71a93.chunk.css.map": "/portfolio/static/css/main.d1e71a93.chunk.css.map",
+    "static/js/2.644c8968.chunk.js.LICENSE.txt": "/portfolio/static/js/2.644c8968.chunk.js.LICENSE.txt",
+    "static/media/Priya-Sharma-Resume-1.2e7a25ae.pdf": "/portfolio/static/media/Priya-Sharma-Resume-1.2e7a25ae.pdf",
+    "static/media/budget-tracker.jpg": "/portfolio/static/media/budget-tracker.dcb46ad2.jpg",
+    "static/media/code-quiz.jpg": "/portfolio/static/media/code-quiz.566764f8.jpg",
+    "static/media/eat-da-burger.jpg": "/portfolio/static/media/eat-da-burger.2ac6a08f.jpg",
+    "static/media/employee-directory.jpg": "/portfolio/static/media/employee-directory.9f9262f0.jpg",
+    "static/media/employee-tracker.jpg": "/portfolio/static/media/employee-tracker.f65149aa.jpg",
+    "static/media/index.css": "/portfolio/static/media/header.bd54bac3.jpg",
+    "static/media/note-taker.jpg": "/portfolio/static/media/note-taker.ea6237c3.jpg",
+    "static/media/password-generator.jpg": "/portfolio/static/media/password-generator.f0b8d91a.jpg",
+    "static/media/postcards-from-space.jpg": "/portfolio/static/media/postcards-from-space.34247da4.jpg",
+    "static/media/readme generator.jpg": "/portfolio/static/media/readme generator.06d5087d.jpg",
+    "static/media/team-profile-generator.jpg": "/portfolio/static/media/team-profile-generator.41410f84.jpg",
+    "static/media/weather-dashboard.jpg": "/portfolio/static/media/weather-dashboard.c1e71e2e.jpg",
+    "static/media/workday-planner.jpg": "/portfolio/static/media/workday-planner.2147afd7.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.956295cc.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.644c8968.chunk.js",
+    "static/css/main.d1e71a93.chunk.css",
+    "static/js/main.b6b574bd.chunk.js"
+  ]
+}
